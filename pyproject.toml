@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "res3"
-version = "0.1.0"
+version = "0.2.0"
 description = "Redis RESP3 protocol"
 authors = ["Shawn Presser <shawnpresser@gmail.com>"]
 license = "MIT"
